@@ -9,9 +9,13 @@ DEMO:
 Screens 
 
 Blog List:
+
+
 <img src="https://github.com/user-attachments/assets/943bc304-73f3-4d8a-8198-bb3491c5d247" width="720" height="1280">
 
 Blog List Details
+
+
 <img src="https://github.com/user-attachments/assets/fb2e8155-e56e-467e-b459-a4fc93106c41" width="720" height="1280">
 
 
