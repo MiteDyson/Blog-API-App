@@ -1,6 +1,3 @@
-Here is a formatted version of the README file for the **Blog Explorer** Flutter application:
-
----
 
 # Blog Explorer
 
@@ -110,5 +107,3 @@ Future<List<Blog>> fetchBlogs() async {
 ```
 
 ---
-
-This format ensures clarity and ease of understanding for developers who want to work with the **Blog Explorer** Flutter application.
