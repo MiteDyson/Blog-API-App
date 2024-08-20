@@ -1,5 +1,5 @@
 
-# Blog Explorer
+# Blog Explorer Application
 
 **Blog Explorer** is a Flutter application that allows users to explore a list of blogs fetched from a RESTful API. Users can view blog titles, images, and details, and mark their favorite blogs. The application employs Flutter's Bloc state management solution to manage app state efficiently and includes error handling to provide a smooth user experience.
 
